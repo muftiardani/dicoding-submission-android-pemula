@@ -85,7 +85,7 @@ class DetailActivity : AppCompatActivity() {
         try {
             startActivity(intent)
         } catch (e: Exception) {
-            Toast.makeText(this, "Tidak ada koneksi internet", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "WhatsApp tidak terinstall", Toast.LENGTH_SHORT).show()
         }
     }
 

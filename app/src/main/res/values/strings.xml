@@ -9,7 +9,7 @@
     <string name="username">Muhammad Mufti Ardani</string>
     <string name="email">mufti4rdani@gmail.com</string>
     <string name="organization_logo">Logo</string>
-    <string name="share">Share to LinkedIn</string>
+    <string name="share">Share to WhatsApp</string>
 
     <string-array name="data_name">
         <item>Youth Ranger Indonesia</item>
