@@ -23,12 +23,14 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="MissingConstraints"
             tools:layout_editor_absoluteX="145dp"
-            tools:src="@tools:sample/avatars" />
+            tools:src="@tools:sample/backgrounds/scenic" />
 
         <TextView
             android:id="@+id/tv_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             tools:text="@string/organization_name"
             android:gravity="center"
@@ -39,6 +41,8 @@
             android:id="@+id/tv_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="20dp"
             tools:text="@string/organization_title"
@@ -53,7 +57,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
-            android:text="@string/organization_article"
+            android:text="@string/organization_about"
             android:textSize="18sp"
             android:textStyle="bold"/>
 

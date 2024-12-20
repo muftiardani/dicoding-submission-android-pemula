@@ -3,7 +3,7 @@
 
     <string name="organization_name">Nama Organisasi</string>
     <string name="description">Deskripsi</string>
-    <string name="organization_article">Deskripsi</string>
+    <string name="organization_about">About</string>
     <string name="organization_title">Title</string>
     <string name="about">About</string>
     <string name="username">Muhammad Mufti Ardani</string>
@@ -13,8 +13,8 @@
 
     <string-array name="data_name">
         <item>Youth Ranger Indonesia</item>
-        <item>Young On Top (YOT)</item>
-        <item>AIESEC</item>
+        <item>Young On Top</item>
+        <item>AIESEC Indonesia</item>
         <item>Kejar Mimpi</item>
         <item>StudentsCatalyst</item>
         <item>FPCI</item>
@@ -26,28 +26,77 @@
 
     <string-array name="data_title">
         <item>#GelorakanApiPemuda</item>
-        <item>Menyatukan Indonesia</item>
-        <item>Develop Your Leadership</item>
-        <item>by CIMB Niaga</item>
+        <item>Young On Top Menyatukan Indonesia</item>
+        <item>AIESEC Develop Your Leadership</item>
+        <item>Komunitas Kejar Mimpi by CIMB Niaga</item>
         <item>Network, Inspire, Go Beyond</item>
         <item>Foreign Policy Community of Indonesia</item>
-        <item>by Paragon Technology and Innovation</item>
+        <item>Novo Club by Paragon Technology and Innovation</item>
         <item>Ideas Worth Spreading</item>
         <item>Indonesian Students Association For International Studies</item>
         <item>Model United Nations</item>
     </string-array>
 
     <string-array name="data_description">
-        <item>Youth Ranger Indonesia merupakan organisasi yang bergerak di bidang pengembangan potensi diri untuk para pemuda. Organisasi ini telah menjalankan beberapa program menginspirasi. Program itu seperti MANIA Impactman YRI Wilayah untuk mengoptimalkan potensi diri para pemuda di 8 wilayah besar, program mentoring, dan program Expert Bina Desa untuk memperluas relasi dan kerja sama dengan komunitas atau organisasi eksternal di seluruh Indonesia.</item>
-        <item>Young On Top (YOT) merupakan organisasi atau komunitas anak muda di seluruh Indonesia, dan menjalin kerja sama dengan beberapa partner dan brand untuk kemajuan generasi muda Indonesia. YOT telah menggelar beberapa acara menarik. Acara tersebut seperti bedah buku, K-Pop Cardio Dance, YOT Mengajar, Love Donation (donor darah), Balap Desain untuk para desainer, YOT Plogging (jalan bersama sambil memungut sampah yang ada di lingkungan sekitar), YOT Sport di bidang olahraga, dan YOT National Conference 2023. YOT National Conference 2023 yakni tempat berkumpulnya para generasi muda, yang turut menghadirkan pembicara-pembicara inspiratif.</item>
-        <item>AIESEC merupakan organisasi global di bawah pimpinan para generasi muda, yang berupaya mencapai perdamaian dan melestarikan potensi umat manusia, dengan mengaktifkan kualitas kepemimpinan. Organisasi ini telah tersebar di 114 negara dan wilayah, salah satunya Indonesia. AIESEC di Indonesia didirikan tahun 1984 dengan fokus utama membina generasi muda, dan menjadikan Indonesia lebih baik di masa sekarang dan masa depan. Program yang dijalankan sejalan dengan The Sustainable Development Goals (SDGs), seperti tujuan pembangunan berkelanjutan, pendidikan, kesehatan, dan masih banyak lagi.</item>
-        <item>Kejar Mimpi merupakan sebuah aksi sosial yang dibentuk oleh CIMB Niaga, dengan visi untuk membentuk generasi muda Indonesia yang positif dalam menerapkan nilai hidup melalui pengembangan dan motivasi diri yang baik. Sehingga mampu memberikan nilai baru yang dapat memajukan Indonesia.</item>
-        <item>StudentsCatalyst adalah organisasi yang diinisiasi oleh mahasiswa yang menyediakan program inkubasi untuk berkumpul, berbagi, dan menginspirasi satu sama lain. Tujuan utama dibentuknya organisasi ini, yaitu membantu mahasiswa, terutama mahasiswa tahun pertama hingga ketiga, untuk membentuk jalur dan rencana mereka selama masa kuliah. Juga untuk mendorong mereka meraih pencapaian lebih banyak lagi. Sehingga mereka dapat mempersiapkan diri sebelum terjun ke lapangan pekerjaan.</item>
-        <item>Foreign Policy Community of Indonesia merupakan organisasi independen nonpolitik, yang didirikan untuk membahas dan memperkenalkan isu-isu hubungan internasional kepada pihak berkepentingan di Indonesia. Seperti diplomat, kedutaan besar, pejabat pemerintah, akademisi peneliti, dunia usaha, media, dosen, dan mahasiswa. Organisasi ini juga mempelajari terkait isu-isu kebijakan luar negeri yang paling mendesak dengan ASEAN, geopolitik, kekuatan menengah, geo-ekonomi, dan diaspora.</item>
-        <item>Novo Club merupakan organisasi mahasiswa yang diinisiasi oleh PT Paragon Technology and Innovation (Paragon), yang memberikan kesempatan kepada generasi muda untuk belajar, membentuk karakter kepemimpinan, dan mengembangkan diri melalui kolaborasi yang inovatif. Program ini diselenggarakan secara serentak di 14 titik di Indonesia, dan berhasil memecahkan rekor MURI sebagai seminar pembukaan program kepemimpinan mahasiswa secara serentak dengan peserta terbanyak.</item>
-        <item>TEDx merupakan forum bagi komunitas mahasiswa dari berbagai bidang untuk saling berbagi cerita yang inspiratif. Sehingga dapat menginspirasi banyak orang untuk mengubah hidup, masa depan, dan dunia mereka menjadi lebih baik. TEDx ini telah hadir di beberapa perguruan tinggi. Seperti Universitas Indonesia dan Universitas Airlangga.</item>
-        <item>Indonesian Student Association for International Studies (ISAFIS) merupakan organisasi yang diinisiasi para pemuda sebagai forum untuk berdiskusi, dan merangkul isu-isu internasional. Organisasi ini telah membangun kerja sama dengan beberapa pemangku kepentingan. Mulai dari kerja sama sesama organisasi pemuda, lembaga swadaya masyarakat, kedutaan besar, lembaga pemerintah, dan organisasi internasional untuk mendukung program-program yang terselenggara. Seperti Jakarta Model United Nations, Indonesia International Week, Jakarta Youth Summit, dan program tahunan lainnya.</item>
-        <item>Model United Nations (MUN) merupakan organisasi yang mengajarkan para pelajar untuk dapat melakukan banyak hal. Seperti meneliti, berbicara di depan umum, melakukan negosiasi, menulis, dan menyusun dokumen dalam simulasi sidang PBB (Persatuan Bangsa-Bangsa) , terkait topik yang diberikan dan dapat diterima oleh seluruh negara.</item>
+        <item>Youth Ranger Indonesia atau biasa disebut YRI merupakan Non Governmental Organization (NGO) yang berperan sebagai wadah pelatihan dan mentoring untuk mengembangkan potensi diri pemuda yang mampu berkontribusi secara nyata bagi Indonesia serta berdaya saing secara global.
+
+Visi: Sebagai wadah bagi para pemuda Indonesia mengembangkan jiwa kepemimpinan, bakat, dan karakter sehingga mampu berkontribusi secara nyata bagi Indonesia serta berdaya saing secara global.
+
+Misi:
+- Melahirkan para pemuda yang mempunyai jiwa kepemimpinan serta bertaqwa kepada Tuhan Yang Maha Esa.
+- Mengembangkan bakat dan potensi para pemuda secara optimal, ditunjang dengan karakter yang baik dan benar.
+- Meningkatkan pemuda yang berkompeten dalam bidangnya, demi masa depan yang lebih baik.
+- Membentuk kegiatan yang bergerak di bidang pemberdayaan pemuda.
+- Meningkatkan pemuda yang berkompeten dalam bidangnya, demi masa depan yang lebih baik.</item>
+        <item>Young On Top (YOT) adalah komunitas anak muda terbesar di Indonesia yang dimulai dari buku karya Billy Boen yang diterbitkan pada April 2009. YOT berfokus pada pemberdayaan dan pengembangan generasi muda Indonesia melalui kegiatan dan program positif yang mengacu pada enam pilar, yaitu Pendidikan, Kesehatan, Lingkungan, UKM, Sosial, dan Teknologi. PT. YOT Muda Sukses adalah anak perusahaan dari PT. YOT Nusantara (Holding) yang dipimpin oleh Andy F. Noya sebagai Presiden Komisaris dan Billy Boen sebagai Presiden Direktur.
+
+Visi: Untuk menciptakan generasi penerus bangsa yang lebih kuat.
+
+Misi: Menginspirasi lebih banyak anak muda untuk meraih kesuksesan di usia muda, dan menciptakan komunitas anak muda yang kuat dan positif di seluruh negeri dengan memberikan inspirasi dan program pengembangan yang berkesinambungan.</item>
+        <item>AIESEC adalah organisasi internasional bagi anak muda yang ingin mengembangkan kemampuan kepemimpinannya melalui pertukaran pemuda, magang, dan program lainnya. Karena merupakan organisasi internasional, AIESEC hadir di lebih dari 120 negara, termasuk Indonesia. Dengan jaringan globalnya, organisasi ini memungkinkan para anggotanya untuk terlibat dalam berbagai project, baik di dalam maupun luar negeri. Tak hanya mengembangkan keterampilan kepemimpinan, kamu juga bisa memperluas networking dengan sesama pemuda Indonesia dan negara lain.
+
+Program-Program AIESEC
+
+1. Global Volunteer
+Global Volunteer adalah program bagi kamu yang ingin menjadi volunteer dalam berbagai project sosial di berbagai negara. Project ini berfokus pada berbagai isu-isu global, seperti pendidikan, kesehatan, lingkungan, dan pemberdayaan masyarakat.
+2. Global Talent
+Global Talent adalah program magang internasional dari AIESEC yang ditujukan untuk mahasiswa atau fresh graduate yang ingin mencari pengalaman kerja di luar negeri. Program ini menawarkan kesempatan untuk bekerja di perusahaan multinasional atau organisasi nirlaba dalam berbagai bidang.
+3. Global Teacher
+Sesuai namanya, program Global Teacher ini ditujukan bagi kamu yang tertarik untuk mengajar di luar negeri. Peserta program ini dapat mengajar di sekolah-sekolah atau lembaga pendidikan non-formal di beberapa negara berbeda.
+4. AIESEC Future Leaders (AFL)
+Ini merupakan program yang menyediakan aktivitas pengembangan diri, khususnya untuk meningkatkan keterampilan hard skill dan soft skill.</item>
+        <item>Gerakan Komunitas Kejar Mimpi yang diinisiasi oleh CIMB Niaga telah hadir dan memberikan dampak positif untuk masyarakat sejak 2017. Komunitas Kejar Mimpi terbentuk dari keinginan CIMB Niaga dalam mendukung masyarakat dalam mewujudkan mimpi serta membentuk karakter generasi bangsa yang positif sehingga dapat menjadi bangsa yang produktif, independen, dan memiliki jiwa yang membangun untuk Indonesia. Komunitas Kejar Mimpi telah tersebar di 35 kota di seluruh Indonesia dan terdiri dari lebih dari 800 anggota. Dalam melaksanakan misi yaitu menjadi ekosistem yang inspiratif untuk masyarakat dalam mengejar mimpinya, Komunitas Kejar Mimpi telah membantu lebih dari 147.000 anak muda untuk mengembangkan diri, melakukan aksi sosial, serta memberikan dampak positif baik untuk kotanya maupun untuk Indonesia melalui lebih dari 1.000 kegiatan dibidang Pendidikan, Lingkungan, Filantropi, dan Pembangunan Ekonomi Sosial. Komunitas Kejar Mimpi menjadi sebuah wadah anak muda untuk meningkatkan pengetahun, bertukar pikiran, menambah pengalaman, berkolaborasi serta melakukan aksi sosial demi mengembangkan karakter dan mimpi pemuda di Indonesia.</item>
+        <item>Student Catalyst merupakan organisasi yang didekasikan bagi semua mahasiswa dengan motivasi tinggi untuk berkumpul, berkolaborasi, berjejaring, serta menginspirasi satu sama lain.
+
+Diinisiasi pada tahun 2015 di Bandung, Student Catalyst bertujuan untuk membantu mahasiswa, khususnya tahun pertama sampai ketiga dalam pembentukan jalur dan rencana selama kuliah sekaligus mendorong mereka untuk menjadi mahasiswa high achiever.
+
+Organisasi ini beroperasi sebagai wadah inkubator yang menawarkan berbagai forum, mentoring, dan workshop sebagai bekal dalam persiapan karier ke depannya.
+
+Di samping itu, Student Catalyst juga menyediakan beberapa program penunjang, meliputi StudentsCatalyst Incubation, CareerCatalyst Academy, Career Catalyst Accelerator, plus StudentCatalyst Summit yang akan segera diluncurkan.</item>
+        <item>FPCI didirkan oleh diplomat dan mantan duta besar RI, Dr. Dino Patti Djalal pada tahun 2014 sebagai sebuah organisasi nirlaba dan nonpolitis yang bergerak di bidang hubungan internasional. Menariknya, FPCI juga menjadi organisasi hubungan internasional terbesar di Indonesia dan Asia Tenggara.
+
+Tujuannya adalah untuk membahas dan memperkenalkan isu-isu dunia kepada banyak pihak, mulai dari diplomat, duta besar hingga mahasiswa. Organisasi yang satu ini juga mempunyai program yang bervariasi, seperti Southeast Asia Lecture Hall, Youth Development Program, dan masih banyak lagi.
+
+Bergabung dengan FPCI tentunya akan memberikan kamu pemahaman baru dalam mengkaji berbagai isu internasional yang ada. Ditambah lagi, wawasanmu terkait situasi dan kondisi global juga bisa terbuka lebar.</item>
+        <item>Novo Club komunitas bagi mahasiswa aktif yang dibangun oleh ParagonCorp untuk menjadi laboratorium pengembangan diri bagi mahasiswa, dengan mendorong budaya inovasi dan kolaborasi. Novo merupakan perwujudan salah satu nilai yang dimiliki ParagonCorp, yaitu inovasi, yang merepresentasikan pemikiran brilian, ide-ide kebaruan, dan rasa penasaran tinggi yang dimiliki oleh anak muda.
+
+Our Mission :
+- Membantu pengembangan diri
+- Menumbuhkan Budaya Inovatif
+- Sebagai talent pool dan ekosistem Paragon
+- Menyiapkan pemimpin berjiwa sosial di masa depan
+- Menebarkan manfaat melalui program Novo Club</item>
+        <item>TED adalah organisasi nirlaba yang didedikasikan untuk menyebarkan ide-ide, biasanya dalam bentuk ceramah singkat dan kuat. Dimulai pada tahun 1984 sebagai konferensi yang mempertemukan Teknologi, Hiburan, dan Desain, dan saat ini mencakup topik-topik ilmu pengetahuan, bisnis, hingga isu-isu global. TED Talks diberikan dalam lebih dari 100 bahasa di berbagai komunitas di seluruh dunia.
+
+Pada konferensi TED, para pemikir dan pelaku terkemuka di dunia diminta untuk memberikan ceramah tentang kehidupan mereka dalam waktu 18 menit atau kurang. Pembicara TED termasuk Roger Ebert, Sheryl Sandberg, Bill Gates, Elizabeth Gilbert, Benoit Mandelbrot, Philippe Starck, Ngozi Okonjo-Iweala, Brian Greene, Isabel Allende, dan mantan Perdana Menteri Inggris, Gordon Brown. Tiga acara besar TED diadakan setiap tahun: Konferensi TED berlangsung setiap musim semi di Vancouver, Kanada, bersamaan dengan TEDActive, di Whistler, BC; dan Konferensi TEDGlobal berlangsung setiap musim panas di Edinburgh, Skotlandia.</item>
+        <item>Indonesian Student Association for International Studies (ISAFIS) didirikan pada tanggal 14 Februari 1984. Berawal dari sebuah undangan konferensi pemuda di Jepang bernama ISC36 (International Student Conference) yang diselenggarakan oleh ISA (International Student Association) pada tahun 1982. Faisal Motik bersama beberapa rekannya terinspirasi untuk membuat sebuah organisasi yang mewadahi pengkajian Studi dan Pertukaran Internasional di Indonesia.
+
+Pada akhir tahun 1983 hingga awal tahun 1984, Faisal Motik memantapkan ide untuk mendirikan organisasi tersebut bersama dengan 9 orang rekannya seperti Imam B. Prasojo dan Adnan Pandu Praja. Setelah konsolidasi, pada tanggal 14 Februari 1984, berdirilah sebuah organisasi yang bernama International Student Association (ISA), yang kemudian berubah menjadi Indonesian Student Association for International Studies (ISAFIS).
+</item>
+        <item>Model United Nations, yang juga dikenal sebagai Model UN atau MUN, pendidikan simulasi dan/atau kegiatan akademik di mana siswa dapat belajar tentang diplomasi, Hubungan Internasional, dan PBB. Model UN mengajarkan siswa untuk dapat meneliti, berbicara di depan umum, negosiasi, menulis, dan menyusun dokumen. Selain itu, Model UN melibatkan siswa untuk berpikir kritis, kerja sama tim, dan kepemimpinan kemampuan. Biasanya kegiatan ekstrakurikuler, beberapa sekolah juga menawarkan MUN sebagai sebuah kelas.
+
+Peserta di Model United Nations konferensi, yang dikenal sebagai delegasi, yang ditempatkan di komite dan ditugaskan negara, atau kadang-kadang organisasi lain atau tokoh-tokoh politik, di mana mereka merupakan anggota dari tubuh itu. Mereka disajikan dengan tugas-tugas mereka di muka, bersama dengan topik atau topik yang mereka komite akan membahas. Delegasi melakukan penelitian sebelum konferensi dan merumuskan posisi yang kemudian akan mereka berdebat dengan sesama delegasi panitia, tetap setia kepada posisi yang sebenarnya dari anggota yang mereka wakili. Pada akhir konferensi, yang terbaik-melakukan delegasi dalam masing-masing komite, serta delegasi, yang kadang-kadang diakui dengan penghargaan.
+</item>
     </string-array>
 
     <integer-array name="data_photo">
